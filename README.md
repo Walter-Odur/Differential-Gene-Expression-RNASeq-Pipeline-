@@ -1,4 +1,14 @@
-# **Background**
+<h1 align="center">
+    <b>DIFFERENTIAL GENE EXPRESSION (RNASeq)</b> <br>
+    <b>PIPELINE DOCUMENTATION</b>
+</h1>
+
+<h3 align="center">
+    Author: Walter Odur <br>
+    Affiliation: ACE-Uganda
+</h3>
+
+## **Background**
 
 RNA-seq (RNA sequencing) quantifies gene expression through
 next-generation sequencing. This pipeline analyzes differential
@@ -92,7 +102,7 @@ glycolysis?
 ## **The Pipeline**
 
 <figure>
-<img src="images/RNASeq_pipeline.png" width="732"
+<img src="RNASeq_pipeline.png" width="732"
 alt="This shows the typical analysis steps from sample acquisition to statistical analysis" />
 <figcaption aria-hidden="true">This shows the typical analysis steps
 from sample acquisition to statistical analysis</figcaption>
