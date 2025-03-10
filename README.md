@@ -1,5 +1,5 @@
 <h1 align="center">
-    <b>DIFFERENTIAL GENE EXPRESSION (RNASeq)</b> <br>
+    <b>🧬 DIFFERENTIAL GENE EXPRESSION (RNASeq)</b> <br>
     <b>PIPELINE DOCUMENTATION</b>
 </h1>
 
@@ -8,7 +8,7 @@
     Affiliation: ACE-Uganda
 </h3>
 
-## **Background**
+## 📌**Background**
 RNA-seq (RNA sequencing) quantifies gene expression through
 next-generation sequencing.   
 This pipeline analyzes differential
