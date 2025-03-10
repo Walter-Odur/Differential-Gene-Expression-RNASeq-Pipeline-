@@ -9,16 +9,17 @@
 </h3>
 
 ## **Background**
-
+<div align="justify">
 RNA-seq (RNA sequencing) quantifies gene expression through
 next-generation sequencing. This pipeline analyzes differential
 expression between two experimental conditions using human genome data.
 Given the computational demands, we recommend running this analysis on a
 high-performance computing (HPC) cluster for adequate RAM and processing
 power.
-
+</div>
 ## Sample Acquisition
 
+<div align="justify">
 The human samples were acquired from a research project entitled ***TBC1
 domain-containing proteins are frequently involved in triple-negative
 breast cancers in connection with the induction of a glycolytic
@@ -31,9 +32,11 @@ clinical heterogeneity.
 The study highlighted how TBC1Ds, traditionally known as regulators of
 RAB GTPases and membrane trafficking, are overexpressed in TNBC and
 influence cancer aggressiveness by promoting glycolysis.
+</div>
 
 **Some of the key findings from the study underscored the following:**
 
+<div align="justify">
 1.  Elevated Expression in TNBC: Several TBC1D genes are overexpressed
     in TNBC compared to other breast cancer subtypes, correlating with
     poor patient outcomes.  
@@ -51,14 +54,17 @@ influence cancer aggressiveness by promoting glycolysis.
     its known interaction with the mTORC1 pathway, involving alternative
     mechanisms such as the transcriptional regulation of glycolytic
     enzymes and glucose transporter GLUT1.
+</div>
 
 **Clinical Implications:**
 
+<div align="justify">
 -   Biomarkers: TBC1Ds, particularly TBC1D7, could serve as biomarkers
     for prognosis in TNBC.  
 -   Therapeutic Targets: The findings suggest targeting TBC1Ds and the
     glycolytic pathways they regulate as potential strategies for TNBC
     treatment.
+</div>
 
 The following *study Questions* guided the researchers to have deeper
 exploration into the molecular mechanisms, therapeutic opportunities,
